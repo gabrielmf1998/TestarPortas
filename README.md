@@ -10,9 +10,11 @@ Não desenvolvi para testar portas abaixo de 1024 pois são portas reservadas de
 disponíveis em qualquer sistema operacional.
 
 **Dependências** 🟩
+
 Download JDK: https://www.oracle.com/br/java/technologies/downloads/
 
 **Execução** 🟩
+
 Basta ter o JDK instalado.
 
 Como ele cria uma porta a nível de rede, compilar em uma versão .exe seria extremamente dificil e muitos SOs como Windows iriam achar
