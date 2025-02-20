@@ -15,7 +15,7 @@ Download JDK: https://www.oracle.com/br/java/technologies/downloads/
 
 **Execução** 🟩
 
-Basta ter o JDK instalado.
+Basta ter o JDK instalado, extrair .zip e executar TestarPortas.jar
 
 Como ele cria uma porta a nível de rede, compilar em uma versão .exe seria extremamente dificil e muitos SOs como Windows iriam achar
 que é virus, então pretendo deixar apenas .jar, assim ele fica isolado na VM do próprio JVM e assim nenhum SO vai entender como ameaça.
