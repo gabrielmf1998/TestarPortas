@@ -1,0 +1,16 @@
+LEIA-ME!
+
+Programa criado com proposito de testar portas TCP.
+Ele utiliza a função ServerSocket para listar uma porta e aguardar uma conexão.
+É ótimo para testar apontamentos IP e furos no NAT do roteador.
+Facilita para saber se o problema é no provedor ou configuracao incorreta no equipamento.
+
+É indispensável o uso do Java JDK 21 ou mais recente para execução do código.
+Não desenvolvi para testar portas abaixo de 1024 pois são portas reservadas de serviço, e normalmente estão
+disponíveis em qualquer sistema operacional.
+
+Download JDK mais recente: https://www.oracle.com/br/java/technologies/downloads/
+
+Contatos:
+Gabriel Marques Ferrarezi.
+Linkedin: https://www.linkedin.com/in/gabriel-marques-ferrarezi-8a0913190/
